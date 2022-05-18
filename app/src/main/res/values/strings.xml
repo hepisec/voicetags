@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">VoiceTags</string>
+    <string name="welcome_text">Willkommen bei VoiceTags, halten Sie Ihr Gerät gegen ein NFC Tag.</string>
+    <string name="action_info">Info</string>
+    <string name="action_create">VoiceTag erstellen</string>
+    <string name="action_settings">Einstellungen</string>
+    <string name="action_nfc">NFC Einstellungen</string>
+    <string name="action_speech">Spracheinstellungen</string>
+    <string name="about">Entwickelt von Hendrik Pilz</string>
+    <string name="create">Berühren Sie den Bildschirm, um einen VoiceTag zu erstellen. Sprechen Sie nach dem Piepton. Berühren Sie den Bildschirm erneut, um die Aufnahme zu beenden.</string>
+    <string name="nfc_detected">NFC Tag erkannt</string>
+    <string name="title_activity_info">Info über VoiceTags</string>
+    <string name="title_create">VoiceTag erstellen</string>
+
+    <string name="hello_world">Hello world!</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_screen_slide_pager">ScreenSlidePagerActivity</string>
+</resources>

@@ -1,0 +1,15 @@
+<resources>
+    <string name="title_activity_settings">Einstellungen</string>
+
+    <!-- Strings related to Settings -->
+
+    <!-- Example General settings -->
+    <string name="pref_header_general">Allgemein</string>
+
+    <string name="pref_mute_all">Sprachausgabe deaktivieren</string>
+    <string name="pref_description_mute_all">Erkannte NFC Tags werden nicht mehr vorgelesen</string>
+
+    <string name="pref_speak_main">Startbildschirm vorlesen</string>
+    <string name="pref_description_speak_main">Beim Starten der Anwendung wird eine Willkommensnachricht vorgelesen</string>
+
+</resources>

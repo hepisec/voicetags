@@ -1,0 +1,17 @@
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:key="pref_general_settings"
+        android:title="@string/pref_header_general">
+        <CheckBoxPreference
+            android:defaultValue="false"
+            android:key="mute_all"
+            android:summary="@string/pref_description_mute_all"
+            android:title="@string/pref_mute_all" />
+
+        <CheckBoxPreference
+            android:defaultValue="true"
+            android:key="speak_main"
+            android:summary="@string/pref_description_speak_main"
+            android:title="@string/pref_speak_main" />
+    </PreferenceCategory>
+</PreferenceScreen>
